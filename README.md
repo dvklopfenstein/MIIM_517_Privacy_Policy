@@ -1,4 +1,6 @@
 # Privacy Notice
+https://www.anthology.com/trust-center/data-privacy-approach    
+
 Privacy policy for the Dampier Lab's use of the Blackboard Learn REST API to
 download and upload onto a private Drexel Medicine network 
 student assignments and grades needed to
@@ -24,18 +26,17 @@ BBlearn is where you access your course material, interact with your instructors
 submit assignments, complete assessments, and view your grades.
 Personal Data accessible through the BBlearn REST interface can include information such as
 your name, email address, submited assignments, grades, and last access to the BBlearn site.
+BBlearn's privacy commitments include that students own their own data,
+data privacy is a fundamental right for all individuals,
+BBlearn does not sell student data, and
+innovation guided by privacy by design.
+We at the Dampier Lab adhere to BBlearn's philosophy on the privacy of student data.
 
-## What You Agree to by taking our biostatistics course
-We consider that the legal basis for using your personal
-information as set out in this Privacy Notice are as follows:
-
+## What Information We Collect
 Our use of your personal information is necessary to perform our obligations with you as a student
 of the biostatistics course, MIIM-517. Examples of obligations include grading, reading student
 comments on problem sets where help is needed, checking student work, evaluating where 
 many students are having difficulty and using that information to improve the course.
-
-
-## What Information We Collect
 We gather the following types of information about students using scripts which access data on BBlearn:
 
 * Student name
@@ -50,56 +51,21 @@ We gather the following types of information about students using scripts which 
 
 
 ## How We Use the Information
-1. **Information relating to your use of our Site**.
-We use information relating to your use of the Site to build higher quality, more useful biostatistics class by
-performing statistical analyses of the collective characteristics and behavior of our users, and by
-measuring demographics and interests regarding specific areas of our Site.
-Personally Identifiable Information provided directly by you or via third parties. Except as set forth in this Privacy
-Notice or as specifically agreed to by you, Coursera will not disclose any of your Personal Data. In
-addition to the other uses set forth in this Privacy Notice, we may disclose and otherwise use
-Personal Data as described below.
+We use student data to:
 
-* Providing the Site and our Services. We use Personal Data which
-you provide to us in order to allow you to access and use the Site and in order to provide any
-information, products, or Services that you request from us.
+* Perform grading
 
-Technical support and security. We may use Personal Data to provide technical support to you, where
-required, and to ensure the security of our Services and the Site.
-
-Updates. We use Personal Data collected when you sign-up for our various email or update services to
-send you the messages in connection with the Site or Content Offerings. We may also archive this
-information and/or use it for future communications with you, where we are legally entitled to do
-so.
-
-Forums. You should not post any personally identifiable information or other information of a
-personal or sensitive nature, whether relating to you or another person, within a Forum post. If you
-choose to post personally identifiable information, such personally identifiable information may be
-collected during your use of the Forums. We may publish this information via extensions of our
-platform that use third-party services, like mobile applications. We reserve the right to reuse
-Forum posts that contain personally identifiable information in future versions of the Content
-Offerings, and to enhance future Content Offerings. We may archive this information and/or use it
-for future communications with you and/or your designee(s), and/or provide it to the Content
-Provider, business partners, or the instructor(s) associated with the courses you have taken. We may
-also use or publish posts submitted on the Forums without using personally identifiable information.
-
-* Participation in Content Offerings. We, the instructors and TAs of the biostatistics class,
+* BBlearn activities. We, the instructors and TAs of the biostatistics class,
 use the Personal Data that we collect from you when you
 participate in the class through the BBLearn for processing purposes, including but not
 limited to tracking progress, and completion of the the assignments and projects.
-We may also share your Personal Data and your performance in a given Content Offering with the instructor or
-instructors who taught it, with teaching assistants or other individuals designated by the
-instructor or instructors to assist with the creation, modification, or operation of the Content
-Offering, and with the Content Provider(s) with which they are affiliated. We may also use the
-information generated when taking a Content Offering or using the Services for predictive analysis
-of your performance in the Content Offerings. Also, we may archive this information and/or use it
-for future communications with you, where we are legally entitled to do so.
 
 * Communications with or from the instructors. When you fill out the comment section 
 when submitting an assignment or otherwise contact us, we
 may use the information provided by you to respond to your communication and/or as described in this
 Privacy Notice. 
 
-* Research. We may use general course data (including quiz or assignment submissions, grades, and
+* We may use general course data (including quiz or assignment submissions, grades, and
 forum discussions), and information about your activity on BBlearn, so that we can improve the course.
 
 ## Retention of Personally Identifiable Information
@@ -114,7 +80,8 @@ We will use industry standard physical, technical, and administrative security m
 keep your Personal Data confidential and secure, and will not share it with third parties.
  except as otherwise provided in this Privacy
 Notice, or unless such disclosure is necessary in special cases, such as a physical threat to you or
-others, as permitted by applicable law. Because the Internet is not a 100% secure environment, we
+others, as permitted by applicable law.
+Because the Internet is not a 100% secure environment, we
 cannot guarantee the security of Personal Data, and there is some risk that an unauthorized third party may find a way to circumvent our security systems or that transmission of your information
 over the Internet will be intercepted. It is your responsibility to protect the security of your
 login information. Please note that e-mail communications are typically not encrypted and should not
