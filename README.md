@@ -9,8 +9,8 @@ run the biostatistics course, MIIM-517, at Drexel University.
 ## Purpose and who we are
 The purpose of this Privacy Notice is to describe how private, internal apps created in the Dampier Lab
 collect, use, and share information about students taking the biostatistics class, MIIM-517.
-Synopsis: We don't share any student data with anyone but the instructors and TAs of the currently
-running MIIM-517 biostatistics class.
+Synopsis: We don't share any student data with anyone except the instructors and teaching assistants (TAs)
+of the MIIM-517 biostatistics class.
 
 Please read this Privacy Notice carefully to understand what we do.
 If you do not understand any aspects of our Privacy Notice, please feel free to contact us at wnd22@drexel.edu.
@@ -22,7 +22,7 @@ This Privacy Notice covers information from you that is accessible through the B
 Blackboard Learn (BBlearn) is a private and secure website called a Learning Management System (LMS).
 BBlearn is where you access your course material, interact with your instructors and other students,
 submit assignments, complete assessments, and view your grades.
-Personal Data accessible throuthe BBlearn REST interface can include information such as
+Personal Data accessible through the BBlearn REST interface can include information such as
 your name, email address, submited assignments, grades, and last access to the BBlearn site.
 
 ## What You Agree to by taking our biostatistics course
@@ -46,7 +46,7 @@ We gather the following types of information about students using scripts which 
 * Comments from the student regarding the assignment
 * Aggregate information about the assignment questions missed by many students, so we may improve the course
 * Last time the student visited BBLearn
-* Accessing posts on the Discussion Board
+* Posts on the Discussion Board
 
 
 ## How We Use the Information
