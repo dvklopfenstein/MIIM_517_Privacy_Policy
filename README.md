@@ -1,5 +1,6 @@
 # Privacy Notice
-https://www.anthology.com/trust-center/data-privacy-approach    
+TODO NOTE: https://www.anthology.com/trust-center/data-privacy-approach    
+TODO NOTE: https://www.coursera.org/about/privacy    
 
 Privacy policy for the Dampier Lab's use of the Blackboard Learn REST API to
 download and upload onto a private Drexel Medicine network 
