@@ -1,7 +1,4 @@
 # Privacy Notice
-TODO NOTE: https://www.anthology.com/trust-center/data-privacy-approach    
-TODO NOTE: https://www.coursera.org/about/privacy    
-
 Privacy policy for the Dampier Lab's use of the Blackboard Learn REST API to
 download and upload onto a private Drexel Medicine network 
 student assignments and grades needed to
@@ -22,17 +19,18 @@ The Dampier lab is an academic group at Drexel in the School of Medicine, depart
 with a principal place of business at 245 N. 15th Street, Philadelphia, PA 19102.
 
 ## What Information this Privacy Notice Covers
-This Privacy Notice covers information from you that is accessible through the Blackboard Learn web site's REST interface.
-Blackboard Learn (BBlearn) is a private and secure website called a Learning Management System (LMS).
+This Privacy Notice covers information from you to Blackboard Learn (BBlearn)
+that is accessible through the BBlearn web site's REST interface.
+Blackboard Learn is a private and secure website called a Learning Management System (LMS).
 BBlearn is where you access your course material, interact with your instructors and other students,
 submit assignments, complete assessments, and view your grades.
 Personal Data accessible through the BBlearn REST interface can include information such as
 your name, email address, submited assignments, grades, and last access to the BBlearn site.
-BBlearn's privacy commitments include that students own their own data,
+We at the Dampier Lab abide by BBlearn's privacy commitments which include:
+students own their own data,
 data privacy is a fundamental right for all individuals,
-BBlearn does not sell student data, and
+BBlearn (and the Dampier Lab) does not sell student data, and
 innovation guided by privacy by design.
-We at the Dampier Lab adhere to BBlearn's philosophy on the privacy of student data.
 
 ## What Information We Collect
 Our use of your personal information is necessary to perform our obligations with you as a student
@@ -41,8 +39,7 @@ comments on problem sets where help is needed, checking student work, evaluating
 many students are having difficulty and using that information to improve the course.
 We gather the following types of information about students using scripts which access data on BBlearn:
 
-* Student name
-* Student email
+* Student Drexel One ID (not student name and email)
 * Grades
 * Assignments
 * Which assignment questions are missed
@@ -57,12 +54,12 @@ We use student data to:
 
 * Perform grading
 
-* BBlearn activities. We, the instructors and TAs of the biostatistics class,
+* **BBlearn activities**. We, the instructors and TAs of the biostatistics class,
 use the Personal Data that we collect from you when you
 participate in the class through the BBLearn for processing purposes, including but not
 limited to tracking progress, and completion of the the assignments and projects.
 
-* Communications with or from the instructors. When you fill out the comment section 
+* **Communications with or from the instructors**. When you fill out the comment section 
 when submitting an assignment or otherwise contact us, we
 may use the information provided by you to respond to your communication and/or as described in this
 Privacy Notice. 
@@ -76,6 +73,8 @@ for the purposes for which the Personal Data is collected and processed.
 We will use the BBLearn REST interface to facilitate running the class in the current semester.
 And we will use last semester's class to test new scripts.
 We may use older classes for testing script changes and new scripts, if needed.
+Comments from the student regarding the assignment, posts on the discussion board,
+and other data not related to future course development will be deleted at the end of the academic term.
 
 ## Confidentiality & Security of Personally Identifiable Information
 We will use industry standard physical, technical, and administrative security measures to
