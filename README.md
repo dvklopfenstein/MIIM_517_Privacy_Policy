@@ -10,7 +10,7 @@ run the biostatistics course, MIIM-517, in the Dampier Lab at Drexel University.
 The purpose of this Privacy Notice is to describe how private, internal apps created in the Dampier Lab
 collect, use, and share information about students taking the biostatistics class, MIIM-517.
 Synopsis: We don't share any student data with anyone except the instructors and teaching assistants (TAs)
-of the MIIM-517 biostatistics class and we store Drexel One IDs and never student's names, emails,
+of the MIIM-517 biostatistics class and we store Drexel One IDs and never the student's names, emails,
 or any other identifying information.
 
 Please read this Privacy Notice carefully to understand what we do.
@@ -39,10 +39,10 @@ comments on problem sets where help is needed, checking student work, evaluating
 many students are having difficulty and using that information to improve the course.
 We gather the following types of information about students using scripts which access data on BBlearn:
 
-* Student Drexel One ID (not student name and email)
+* Student Drexel One ID only -- we never store the students' name and email.
 * Grades
 * Assignments
-* Which assignment questions are missed
+* Questions that are incorrect
 * Comments from the student regarding the assignment
 * Aggregate information about the assignment questions missed by many students, so we may improve the course
 * Last time the student visited BBLearn
@@ -64,23 +64,22 @@ when submitting an assignment or otherwise contact us, we
 may use the information provided by you to respond to your communication and/or as described in this
 Privacy Notice. 
 
-* We may use general course data (including quiz or assignment submissions, grades, and
+* **Course improvement**. We may use general course data (including quiz or assignment submissions, grades, and
 forum discussions), and information about your activity on BBlearn, so that we can improve the course.
 
 ## Retention of Personally Identifiable Information
 We keep your Personal Data for no longer than necessary
 for the purposes for which the Personal Data is collected and processed.
 We will use the BBLearn REST interface to facilitate running the class in the current semester.
-And we will use last semester's class to test new scripts.
+We will use last semester's class to test new scripts.
 We may use older classes for testing script changes and new scripts, if needed.
 Comments from the student regarding the assignment, posts on the discussion board,
 and other data not related to future course development will be deleted at the end of the academic term.
 
 ## Confidentiality & Security of Personally Identifiable Information
 We will use industry standard physical, technical, and administrative security measures to
-keep your Personal Data confidential and secure, and will not share it with third parties.
- except as otherwise provided in this Privacy
-Notice, or unless such disclosure is necessary in special cases, such as a physical threat to you or
+keep your Personal Data confidential and secure, and will not share it with third parties
+unless such disclosure is necessary in special cases, such as a physical threat to you or
 others, as permitted by applicable law.
 Because the Internet is not a 100% secure environment, we
 cannot guarantee the security of Personal Data, and there is some risk that an unauthorized third party may find a way to circumvent our security systems or that transmission of your information
