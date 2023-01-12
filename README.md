@@ -5,7 +5,7 @@ TODO NOTE: https://www.coursera.org/about/privacy
 Privacy policy for the Dampier Lab's use of the Blackboard Learn REST API to
 download and upload onto a private Drexel Medicine network 
 student assignments and grades needed to
-run the biostatistics course, MIIM-517, at Drexel University.
+run the biostatistics course, MIIM-517, in the Dampier Lab at Drexel University.
 
 *Effective: January 1, 2023*
 
@@ -13,7 +13,8 @@ run the biostatistics course, MIIM-517, at Drexel University.
 The purpose of this Privacy Notice is to describe how private, internal apps created in the Dampier Lab
 collect, use, and share information about students taking the biostatistics class, MIIM-517.
 Synopsis: We don't share any student data with anyone except the instructors and teaching assistants (TAs)
-of the MIIM-517 biostatistics class.
+of the MIIM-517 biostatistics class and we store Drexel One IDs and never student's names, emails,
+or any other identifying information.
 
 Please read this Privacy Notice carefully to understand what we do.
 If you do not understand any aspects of our Privacy Notice, please feel free to contact us at wnd22@drexel.edu.
