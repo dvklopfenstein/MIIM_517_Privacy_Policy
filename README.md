@@ -1,5 +1,5 @@
 # Privacy Notice
-Privacy policy for the Dampier Lab's use of the Blackboard Learn REST API to
+This is the privacy policy for the Dampier Lab's use of the Blackboard Learn REST API to
 download and upload onto a private Drexel Medicine network 
 student assignments and grades needed to
 run the biostatistics course, MIIM-517, in the Dampier Lab at Drexel University.
